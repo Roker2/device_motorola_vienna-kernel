@@ -191,3 +191,4 @@ uload_ind.ko
 load_track.ko
 mtk_c2ps.ko
 c2ps_perf_ioctl.ko
+fs3001.ko
